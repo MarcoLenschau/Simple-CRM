@@ -31,6 +31,6 @@ Simple CRM allows users to add, edit, and organize customer data, track communic
 
 ## 💬 Feedback & Support
 
-If you have suggestions, find bugs, or want to contribute to Simple CRM, please open an issue or pull request on [GitHub](https://github.com/MarcoLenschau/SimpleCRM). Your feedback is very welcome!
+If you have suggestions, find bugs, or want to contribute to Simple CRM, please open an issue or pull request on [GitHub](https://github.com/MarcoLenschau/Simple-CRM). Your feedback is very welcome!
 
 ## 📈 Simplify your customer management with Simple CRM!
